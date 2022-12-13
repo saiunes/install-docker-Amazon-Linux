@@ -1,4 +1,4 @@
-# install-docker-Amazon-Linux
+# install Docker on Amazon Linux
 **The procedure to install docker on Amazon Linux is as follows:**
 
 
