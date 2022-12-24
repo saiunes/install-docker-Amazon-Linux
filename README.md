@@ -6,7 +6,7 @@
 
 
 ```
-sudo amazon-linux-extras install docker
+sudo amazon-linux-extras install docker -y
 ```
 
 ```
